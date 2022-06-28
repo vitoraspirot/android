@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PostCard</string>
+    <string name="recipient">Recipient</string>
+    <string name="recipient_name">Amelie N Mason</string>
+    <string name="address">Address</string>
+    <string name="house_number">47</string>
+    <string name="street_name">Greyfriars Road</string>
+    <string name="district_name">, CAPHEATON</string>
+    <string name="country">United Kingdom</string>
+    <string name="address_code">NE19 5PJ</string>
+    <string name="message">Message</string>
+    <string name="loren">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mollis condimentum ex et porttitor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi gravida ligula gravida, consequat mauris sed, elementum magna. Integer vitae orci pellentesque, iaculis ex et, dignissim quam. Mauris posuere, massa eu vulputate bibendum, nunc justo vehicula tortor, fringilla interdum libero elit nec tortor.</string>
+    <string name="save_draft">SAVE DRAFT</string>
+    <string name="review_design">REVIEW DESIGN</string>
+
+</resources>
